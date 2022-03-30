@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/wakatime?username=wahyusa "Wahyu Syamsul A'lam")
+
+![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusa "Wahyu Syamsul A'lam")
+
+![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api?username=wahyusa&count_private=true&show_icons=true "Wahyu Syamsul A'lam")
+
 <!--
 **wahyusa/wahyusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
