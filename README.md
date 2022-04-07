@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
+
 ![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/wakatime?username=wahyusa&v=2 "Wahyu Syamsul A'lam")
 
 ![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusa&v=2 "Wahyu Syamsul A'lam")
@@ -20,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://hit.yhype.me/github/profile?user_id=27491616)
