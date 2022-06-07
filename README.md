@@ -2,7 +2,7 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
-![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/wakatime?username=wahyusa&v=2 "Wahyu Syamsul A'lam")
+<img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:500px">
 
 ![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusa&v=2 "Wahyu Syamsul A'lam")
 
