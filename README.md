@@ -4,8 +4,6 @@
 
 <img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:50%" alt="Wahyu Syamsul Alam Coding Activity"><img src="https://wakatime.com/share/@wahyusa/79415792-00f9-4ebd-9891-d7d4557755f2.svg" style="width:50%" alt="Wahyu Syamsul Alam Languages">
 
-![Wahyu Syamsul A'lam](https://github-readme-stats.vercel.app/api?username=wahyusa&count_private=true&show_icons=true&v=2 "Wahyu Syamsul A'lam")
-
 <!--
 **wahyusa/wahyusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
