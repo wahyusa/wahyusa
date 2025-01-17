@@ -2,8 +2,10 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
-<img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:50%" alt="Wahyu Syamsul Alam Coding Activity"><img src="https://wakatime.com/share/@wahyusa/79415792-00f9-4ebd-9891-d7d4557755f2.svg" style="width:50%" alt="Wahyu Syamsul Alam Languages">
-
+<section>
+<img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:49%" alt="Wahyu Syamsul Alam Coding Activity">
+<img src="https://wakatime.com/share/@wahyusa/6b00e2e6-6bb9-4a8d-a455-8d8325d2e4f9.svg" style="width:49%" alt="Wahyu Syamsul Alam Programming Languages Over Years Activity">
+</section>
 <!--
 **wahyusa/wahyusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
