@@ -16,7 +16,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth s
 - **Master of Inactivity:** I’ve perfected the art of staring at a blank screen for hours. It’s my superpower.  
 - **Badge Collector:** Those Wakatime/Komarev badges? Yeah, they’re like participation trophies for adults. I wear them with pride.  
 - **Pinned Repositories:** I don't have any, but I can prove that I am old by this [GitHub Gist](https://gist.github.com/wahyusa/e34ed057bac98417b96556cb37933c52)
-- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in (GitHub Docs)(https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9)
+- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9)
 
 ## 📈 Career Trajectory:
 - **2013:** “I’m successfully creating Facebook phising site, hacked more than 10 victim including my friend”  
