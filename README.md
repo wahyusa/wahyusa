@@ -16,7 +16,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth s
 - **Master of Inactivity:** I’ve perfected the art of staring at a blank screen for hours. It’s my superpower.  
 - **Badge Collector:** Those Wakatime/Komarev badges? Yeah, they’re like participation trophies for adults. I wear them with pride.  
 - **Pinned Repositories:** I don't have any, but I can prove that I am old by this [GitHub Gist](https://gist.github.com/wahyusa/e34ed057bac98417b96556cb37933c52)
-- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9) also I proud to be part of [Astro JS](https://github.com/withastro/astro/pull/4384) JS survey and decision to use `npx` instead of `npm run`.
+- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9) also I proud to be initial part of [Astro JS](https://github.com/withastro/astro/pull/4384) decision to use `npx` instead of `npm run`.
 
 ## 📈 Career Trajectory:
 - **2013:** “I’m successfully creating Facebook phising site, hacked more than 10 victim including my friend”  
@@ -29,7 +29,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth s
 ## 🔥 Hot Take:
 If you’re looking for someone who’s “been there, done that,” you’ve come to the wrong place. I’ve been there, *tried* that, and then immediately forgot how it worked. My code is a chaotic mess of outdated libraries and questionable design choices. Dirty and pragmatic naive codes. But hey, at least I’m consistent!
 
-Taylor Otwell once said Gen Z especially in Laravel field might not be able to do in depth backend development, they don't know or understand about cache, queue, databases and so on. Well, it was true! just like me.
+Taylor Otwell once said Gen Z especially in Laravel field might not be able to do in depth backend development, they don't know or understand about cache, queue, databases and so on. Well, it was true! just like me. I don't know maybe people should give junior or intern a chance but with detailed workflow, gitflow, code review rules, convention and mentor. But I know most companies are just don't have time and resource to do that.
 
 ## 🚫 Why Bother Following Me?
 - I might accidentally solve a problem someday.  
