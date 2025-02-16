@@ -2,7 +2,7 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
-# 🚨 Warning: This Profile is Under Construction (Like My Career) 🚨
+# 🚨 Warning: (Oh My Career) 🚨
 
 Welcome to my GitHub! A digital landfill where projects go to die and my youth slowly fades. Let’s get one thing straight: I’m not “experienced”—I’m just old. Like, *really* old. Old enough to remember when JavaScript was just a funny name for a programming language, and Git was something you got stuck in trees.  
 
@@ -16,18 +16,20 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth s
 - **Master of Inactivity:** I’ve perfected the art of staring at a blank screen for hours. It’s my superpower.  
 - **Badge Collector:** Those Wakatime/Komarev badges? Yeah, they’re like participation trophies for adults. I wear them with pride.  
 - **Pinned Repositories:** I don't have any, but I can prove that I am old by this [GitHub Gist](https://gist.github.com/wahyusa/e34ed057bac98417b96556cb37933c52)
-- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9)
+- **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9) also I proud to be part of [Astro JS](https://github.com/withastro/astro/pull/4384) JS survey and decision to use `npx` instead of `npm run`.
 
 ## 📈 Career Trajectory:
 - **2013:** “I’m successfully creating Facebook phising site, hacked more than 10 victim including my friend”  
 - **2017:** “I’m join GitHub because I think can host blog site free forever here”  
 - **2018:** “Unemployeed”
 - **2019 - 2023:** “Bachelor Degree but in COVID events”
-- **2024:** “Manipulated by Bootcamp and courses seller”
+- **2024:** “Manipulated by bootcamp and course seller”
 - **2025:** “Getting old with no experience”
 
 ## 🔥 Hot Take:
-If you’re looking for someone who’s “been there, done that,” you’ve come to the wrong place. I’ve been there, *tried* that, and then immediately forgot how it worked. My code is a chaotic mess of outdated libraries and questionable design choices. Dirty and pragmatic naive codes. But hey, at least I’m consistent!  
+If you’re looking for someone who’s “been there, done that,” you’ve come to the wrong place. I’ve been there, *tried* that, and then immediately forgot how it worked. My code is a chaotic mess of outdated libraries and questionable design choices. Dirty and pragmatic naive codes. But hey, at least I’m consistent!
+
+Taylor Otwell once said Gen Z especially in Laravel field might not be able to do in depth backend development, they don't know or understand about cache, queue, databases and so on. Well, it was true! just like me.
 
 ## 🚫 Why Bother Following Me?
 - I might accidentally solve a problem someday.  
