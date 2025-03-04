@@ -2,7 +2,7 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
-# 🚨 Warning: (Oh My Career) 🚨
+# 🚨 Warning 🚨
 
 Welcome to my GitHub! A digital landfill where projects go to die and my youth slowly fades. Let’s get one thing straight: I’m not “experienced”—I’m just old. Like, *really* old. Old enough to remember when JavaScript was just a funny name for a programming language, and Git was something you got stuck in trees.  
 
