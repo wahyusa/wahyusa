@@ -4,7 +4,7 @@
 
 # 🚨 Warning 🚨
 
-Welcome to my GitHub! A digital landfill where projects go to die and my youth slowly fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing.  
+Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing.  
 
 ## 📊 Stats That Nobody Cares:
 - **Years of Coding:** 9+ (but who’s counting?)  
