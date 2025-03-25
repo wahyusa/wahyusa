@@ -11,7 +11,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth f
 - **Projects Completed:** 3 (two of which are “Hello World” clones).  
 - **Lines of Code:** 10,000+ (mostly copy-pasted from Stack Overflow or AI Generated).  
 - **Current Skill Level:** Expert at creating basic pragmatic CRUD without thinking much about other edge cases.
-- Previously addicted to AI and doing vibe coding, but now I have repented and returned to the right SWE path. 😇
+- Previously addicted to AI and vibe coding, now I have repented and returned to the right SWE path. 😇
 
 ## 🎯 My “Achievements”:
 - **Master of Inactivity:** I’ve perfected the art of staring at a blank screen for hours. It’s my superpower.  
