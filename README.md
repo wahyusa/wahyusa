@@ -8,7 +8,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth f
 
 ## 📊 Stats That Nobody Cares:
 - **Years of Coding:** 9+ (but who’s counting?)  
-- **Projects Completed:** 3 (two of which are “Hello World” clones).  
+- **Projects Completed:** 3 (two of which are just “Hello World”).  
 - **Lines of Code:** 10,000+ (mostly copy-pasted from Stack Overflow or AI Generated).  
 - **Current Skill Level:** Expert at creating basic pragmatic CRUD without thinking much about other edge cases.
 - Previously addicted to AI and vibe coding, now I have repented and returned to the right SWE path. 😇
