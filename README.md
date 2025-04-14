@@ -26,6 +26,7 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth f
 - **2019 - 2023:** “Bachelor Degree but in COVID events”
 - **2024:** “Manipulated by bootcamp and course seller”
 - **2025:** “Getting old with no experience”
+- **Friendly note:** Even though I'm getting old and don't work in the SWE field, I'm glad I can still afford my daily expenses and gacha game top up while keeping tech and programming as my hobbies 🤗
 
 ## 🔥 Hot Take:
 If you’re looking for someone who’s “been there, done that,” you’ve come to the wrong place. I’ve been there, *tried* that, and then immediately forgot how it worked. My code is a chaotic mess of outdated libraries and questionable design choices. Dirty and pragmatic naive codes. But hey, at least I’m consistent!
