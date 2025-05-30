@@ -27,7 +27,6 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth f
 - **2024:** “Manipulated by bootcamp and course seller”
 - **2025:** “Getting old with no experience”
 - **Friendly note:** Even though I'm getting old and don't work in the SWE field, I'm glad I can still afford my daily expenses and gacha game top up while keeping tech and programming as my hobbies 🤗 but of course I still try to get better job.
-- **FUCK:** SHIT HERE IS THE THING MY MONTHLY SALARY IS IDR 900.000 | I CAN SPENT IDR 300.000 FOR MY NEEDS LIKE GAME AND INTERNET RANDOM SHIT, THE REST ARE THROWN AWAY ONLY TO BUY CAT FOOD FUCKING CAT FOOD ASSHOLE THERE IS 25 CAT IN THE HOUSE FUCK AND THIS FUCKING FAMILY ALWAYS USE MY MONEY FOR THAT FUCKING CAT FOOD HOW THE FUCK I CAN SAVE MONEY FOR FUTURE OR SPECIFIC UPGRADE SO I CAN HAVE A FUCKING WORKING DEVICE TO DO FUCKING ZOOM MEETING AND DO THAT FUCKING LEETCODE SHIT INTERVIEW FUCK THIS WORLD BUT OF COURSE I AM WRONG, THE STUPIDEST PERSON IS MYSELF AND I KNOW IT.
 
 ## 🔥 Hot Take:
 If you’re looking for someone who’s “been there, done that,” you’ve come to the wrong place. I’ve been there, *tried* that, and then immediately forgot how it worked. My code is a chaotic mess of outdated libraries and questionable design choices. Dirty and pragmatic naive codes. But hey, at least I’m consistent!
