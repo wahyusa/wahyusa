@@ -7,15 +7,15 @@
 Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing.  
 
 ## 📊 Stats That Nobody Cares:
-- **Years of Coding:** 9+ (but who’s counting?)  
-- **Projects Completed:** 3 (two of which are just “Hello World”).  
+- **Years of Coding:** 9+ (use random programming languages and frameworks)
+- **Projects Completed:** 1 (hellow world project) 
 - **Lines of Code:** 10,000+ (mostly copy-pasted from Stack Overflow or AI Generated).  
 - **Current Skill Level:** Expert at creating basic pragmatic CRUD without thinking much about other edge cases.
 - Previously addicted to AI and vibe coding, now I have repented and returned to the right SWE path. 😇
 
 ## 🎯 My “Achievements”:
-- **Master of Inactivity:** I’ve perfected the art of staring at a blank screen for hours. It’s my superpower.  
-- **Badge Collector:** Those Wakatime/Counter badges? Yeah, they’re like participation trophies for adults. I wear them with pride.  
+- **Code Monkey:** Randomly using programming languages and frameworks to do some random things.
+- **Badge Collector:** Just because I am not best at least I have some badges.
 - **Pinned Repositories:** I don't have any, but I can prove that I am old by this [GitHub Gist](https://gist.github.com/wahyusa/e34ed057bac98417b96556cb37933c52)
 - **Open Source Contribution:** My first accepted open source contribution pull request actually just moving "period" to last sentence in [GitHub Docs](https://github.com/github/docs/commit/f50aaf6babbdc93f7f6a59119e33685d01cc9ce9) also I proud to be initial part of [Astro JS](https://github.com/withastro/astro/pull/4384) decision to use `npx` instead of `npm run`.
 
@@ -33,13 +33,8 @@ If you’re looking for someone who’s “been there, done that,” you’ve co
 
 Taylor Otwell once said Gen Z especially in Laravel field might not be able to do in depth backend development, they don't know or understand about cache, queue, databases and so on. Well, it was true! just like me. I don't know maybe people should give junior or intern a chance but with detailed workflow, gitflow, code review rules, convention and mentor. But I know most companies are just don't have time and resource to do that.
 
-## 🚫 Why Bother Following Me?
-- I might accidentally solve a problem someday.  
-- I’m great at overcomplicating simple tasks.  
-- You’ll feel better about your own productivity.  
-
-## 🕰️ The Cruel Truth:
-Getting old in tech is like being a vintage wine—everyone pretends you’re valuable, but deep down, you’re just a dusty bottle of “meh.” I’m here to embrace the chaos, one half-finished project at a time.  
+## 🤷 Wondering :
+I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money.
 
 <section>
 <img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:49%" alt="Wahyu Syamsul Alam Coding Activity">
