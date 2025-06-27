@@ -2,7 +2,7 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
-# 🚨 Warning 🚨
+# Sup
 
 Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing. 
 
