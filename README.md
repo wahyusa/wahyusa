@@ -2,6 +2,22 @@
 
 ![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
 
+
+```mermaid
+journey
+    title DUNNING KRUGER JOURNEY 🤡 @wahyusa
+    section 2013
+      Script Kiddie: 8: Me
+    section 2020
+      COVID Event: 1: Me
+    section 2023
+      CS Degree: 4: Me
+    section 2025
+      Skill Issue VS AI : 1: Me
+      MEME Maker : 5 : Me
+      Just use WordPress dude : 6 : Me
+```
+
 # Sup
 
 Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing. 
