@@ -18,11 +18,11 @@ journey
       Just use WordPress dude : 6 : Me
 ```
 
-# Sup
+### Sup 👋 
 
 Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing. 
 
-## Summary
+# Summary
 This polite and humble guy knows enough about WordPress and general HTML, CSS, JS, PHP, GIT, cPanel, Linux, Tailwind CSS.
 Love to follow tasks, guidance and rules. Tried to be as proactive partner as possible. Good enough in English. Love solving some random problem and edge cases. 👌
 But ONE PROBLEM!! I don't have experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
