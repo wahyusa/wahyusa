@@ -20,7 +20,7 @@ journey
 
 ### Sup 👋 
 
-Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when AI is nothing. 
+Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when LLM is nothing. 
 
 # Summary
 This polite and humble guy knows enough about WordPress and general HTML, CSS, JS, PHP, GIT, cPanel, Linux, Tailwind CSS.
