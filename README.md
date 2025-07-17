@@ -5,7 +5,7 @@
 
 ```mermaid
 journey
-    title DUNNING KRUGER JOURNEY 🤡 @wahyusa
+    title DUNNING KRUGER JOURNEY @wahyusa
     section 2013
       Script Kiddie: 8: Me
     section 2020
