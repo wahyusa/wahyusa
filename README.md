@@ -28,7 +28,7 @@ Love to follow tasks, guidance and rules. Tried to be as proactive partner as po
 But ONE PROBLEM!! I don't have experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
 
 ### 🤷 Wondering :
-I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money.
+I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money. xixixi
 
 <section>
 <img src="https://wakatime.com/share/@wahyusa/71791850-ac03-4f54-a567-bc36e543669f.svg" style="width:49%" alt="Wahyu Syamsul Alam Coding Activity">
