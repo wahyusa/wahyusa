@@ -27,7 +27,7 @@ This polite and humble guy knows enough about WordPress and general HTML, CSS, J
 Love to follow tasks, guidance and rules. Tried to be as proactive partner as possible. Good enough in English. Love solving some random problem and edge cases. 👌
 But ONE PROBLEM!! I don't have experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
 
-### 🤷 Wondering :
+### 🤷 Wondering
 I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money. xixixi
 
 <section>
