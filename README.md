@@ -24,8 +24,9 @@ Welcome to my GitHub! A digital landfill where projects go to die and my youth f
 
 # Summary
 This polite and humble guy knows enough about WordPress and general HTML, CSS, JS, PHP, GIT, cPanel, Linux, Tailwind CSS.
+Sometimes I enjoy writing and sharing my personal experience on my blog to mimic a technical writer.
 Love to follow tasks, guidance and rules. Tried to be as proactive partner as possible. Good enough in English. Love solving some random problem and edge cases. 👌
-But ONE PROBLEM!! I don't have experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
+But ONE PROBLEM!! I don't have ~~real world~~ experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
 
 ### 🤷 Wondering
 I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money. xixixi
