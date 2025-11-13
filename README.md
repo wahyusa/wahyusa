@@ -32,10 +32,16 @@ But ONE PROBLEM!! I don't have ~~real world~~ experiences LOL!! The best thing I
 I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money. xixixi
 
 <section>
+    <!-- From my private repo
+    https://github.com/wahyusa/github-stat
+    https://github.com/wahyusa/github-stat-summary
+    https://github.com/wahyusa/github-readme-streak-stats -->
+    
 <img height="200" align="center" src="https://github-stat-summary.vercel.app/api/cards/profile-details?username=wahyusa" alt="Wahyu SA GitHub Stats Summary">
 <img height="200" align="center" src="https://github-stat-pi-sepia.vercel.app/api/top-langs/?username=wahyusa&size_weight=0.5&count_weight=0.5&layout=compact&hide=vue,html,blade,css,mdx,md" />
-<img height="200" align="center" width="49%" src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395" alt="Wahyu SA Commit Streak">
-<img height="200" width="49%" align="center" src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
+<img height="200" src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395" alt="Wahyu SA Commit Streak">
+<img height="200" src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
+
 <!-- <img height="200" align="center" src="https://wakatime.com/share/@wahyusa/6b00e2e6-6bb9-4a8d-a455-8d8325d2e4f9.svg" alt="Wahyu SA Programming Languages Over Years Activity"> -->
 </section>
 <!--
