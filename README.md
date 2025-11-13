@@ -37,13 +37,13 @@ I waste many years to learn some random codes to fix my random needs and I got r
     https://github.com/wahyusa/github-stat-summary
     https://github.com/wahyusa/github-readme-streak-stats -->
     
-<img height="200" align="center" src="https://github-stat-summary.vercel.app/api/cards/profile-details?username=wahyusa" alt="Wahyu SA GitHub Stats Summary">
+<img src="https://github-stat-summary.vercel.app/api/cards/profile-details?username=wahyusa" alt="Wahyu SA GitHub Stats Summary">
 <div>
-<img height="200" src="https://github-stat-pi-sepia.vercel.app/api/top-langs/?username=wahyusa&size_weight=0.5&count_weight=0.5&layout=compact&hide=vue,html,blade,css,mdx,md" />
+<img src="https://github-stat-pi-sepia.vercel.app/api/top-langs/?username=wahyusa&size_weight=0.5&count_weight=0.5&layout=compact&hide=vue,html,blade,css,mdx,md" />
     <!-- card_height=165 is the smallest value set in my repo https://github.com/wahyusa/github-readme-streak-stats/blob/5b873f0587e19afc97d808b846f53f3ba9e6c673/api/card.php#L335 -->
-<img height="200" src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395&card_height=165" alt="Wahyu SA Commit Streak">
+<img src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395&card_height=165" alt="Wahyu SA Commit Streak">
 </div>
-<img height="200" src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
+<img src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
 
 <!-- <img height="200" align="center" src="https://wakatime.com/share/@wahyusa/6b00e2e6-6bb9-4a8d-a455-8d8325d2e4f9.svg" alt="Wahyu SA Programming Languages Over Years Activity"> -->
 </section>
