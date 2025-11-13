@@ -39,7 +39,7 @@ I waste many years to learn some random codes to fix my random needs and I got r
     
 <img height="200" align="center" src="https://github-stat-summary.vercel.app/api/cards/profile-details?username=wahyusa" alt="Wahyu SA GitHub Stats Summary">
 <div>
-<img height="200" align="center" src="https://github-stat-pi-sepia.vercel.app/api/top-langs/?username=wahyusa&size_weight=0.5&count_weight=0.5&layout=compact&hide=vue,html,blade,css,mdx,md" />
+<img height="200" src="https://github-stat-pi-sepia.vercel.app/api/top-langs/?username=wahyusa&size_weight=0.5&count_weight=0.5&layout=compact&hide=vue,html,blade,css,mdx,md" />
 <img height="200" src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395" alt="Wahyu SA Commit Streak">
 </div>
 <img height="200" src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
