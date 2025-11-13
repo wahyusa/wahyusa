@@ -43,7 +43,7 @@ I waste many years to learn some random codes to fix my random needs and I got r
     <!-- card_height=165 is the smallest value set in my repo https://github.com/wahyusa/github-readme-streak-stats/blob/5b873f0587e19afc97d808b846f53f3ba9e6c673/api/card.php#L335 -->
 <img src="https://github-readme-streak-stats-phi-five-99.vercel.app/?user=wahyusa&card_width=395&card_height=165" alt="Wahyu SA Commit Streak">
 </div>
-<img src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true" />
+<img src="https://github-stat-pi-sepia.vercel.app/api?username=wahyusa&show_icons=true&nothing_special=0" />
 
 <!-- <img height="200" align="center" src="https://wakatime.com/share/@wahyusa/6b00e2e6-6bb9-4a8d-a455-8d8325d2e4f9.svg" alt="Wahyu SA Programming Languages Over Years Activity"> -->
 </section>
