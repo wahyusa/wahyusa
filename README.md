@@ -1,7 +1,49 @@
 ### Hi there 👋
 
-![Wahyu Syamsul A'lam](https://komarev.com/ghpvc/?username=wahyusa "Wahyu Syamsul A'lam")
+![Wahyu SA](https://komarev.com/ghpvc/?username=wahyusa "Wahyu SA")
 
+---
+
+## Wahyu SA
+
+I want to work in tech 🤗
+
+### Current Status
+
+- Full information on my [LinkedIn](https://www.linkedin.com/in/wahyusa/)
+- I have a Computer Science degree
+- I am looking to transition into an intern or full-time engineering role.
+
+**What I Actually Do**
+
+- I build CLI tools and CRUD applications. 
+- I avoid "cloud-native" complexity and microservices. 
+- Writing technical notes and documentation.
+- Refining web UI/UX and optimizing PageSpeed scores
+
+**Tech Stack (I use these, but I don't claim mastery)**
+
+- **Backend:** Go (Golang), PHP, Typesript.
+- **Frontend:** Svelte, SvelteKit, Astro, Typescript, Tailwind CSS.
+- **Other:** WordPress, cPanel, Laravel, Cloudflare.
+
+**Current Projects**
+
+- **Throwable Company Profile:** Developing affordable static sites using Astro. 
+- **Technical Journal:** https://wsa.my.id
+<!--
+- **Boring App Usage Tracker:** Android app usage analytics (Kotlin).
+- **Bleeding edge tech news:** https://200.web.id
+- **Boring Storytelling Svelte**: https://junior.web.id
+-->
+
+### Joke
+
+> Famously known as "TOP 1 NGANGGUR" (TOP 1 UNEMPLOYED GUY) in Facebook IMPHNEN
+
+> I do have a job, it just not in tech... that's why I named my self as "NGANGGUR" 🗿
+
+---
 
 ```mermaid
 journey
@@ -16,20 +58,10 @@ journey
       Skill Issue VS AI : 1: Me
       MEME Maker : 5 : Me
       Just use WordPress dude : 6 : Me
+      PT Fesnuk Rajin Skrol: 6 : Me
+    section 2026
+      Need MORE money : 4 : Me
 ```
-
-### Sup 👋 
-
-Welcome to my GitHub! A digital landfill where projects go to die and my youth fades. Let’s get one thing straight: I’m not “experienced”—I’m just old 😜. Like, *really* old. Old enough to remember when LLM is nothing. 
-
-# Summary
-This polite and humble guy knows enough about WordPress and general HTML, CSS, JS, PHP, GIT, cPanel, Linux, Tailwind CSS.
-Sometimes I enjoy writing and sharing my personal experience on my blog to mimic a technical writer.
-Love to follow tasks, guidance and rules. Tried to be as proactive partner as possible. Good enough in English. Love solving some random problem and edge cases. 👌
-But ONE PROBLEM!! I don't have ~~real world~~ experiences LOL!! The best thing I can do just doing CRUD by copy-paste.
-
-### 🤷 Wondering
-I waste many years to learn some random codes to fix my random needs and I got random knowledge and that was fun until I am getting old and need to get money. xixixi
 
 <section>
     <!-- From my private repo
