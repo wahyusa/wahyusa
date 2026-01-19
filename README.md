@@ -6,43 +6,34 @@
 
 ## Wahyu SA
 
-I want to work in tech 🤗
+**Software Engineer / Web Developer**
 
-### Current Status
+I have a Computer Science degree and a legal business entity, but I'm currently looking for **Full-time Engineering** or **Internship** roles to break into the industry... in this era... in this economy
 
-- Full information on my [LinkedIn](https://www.linkedin.com/in/wahyusa/)
-- I have a Computer Science degree
-- I am looking to transition into an intern or full-time engineering role.
+### What I Actually Do
+- I build CLI tools, CRUD apps, and static sites.
+- I avoid unnecessary "cloud-native" complexity and microservices.
+- I write personal technical notes and documentation
 
-**What I Actually Do**
+### Tech Stack I Actually Use
+* **Backend:** Go (Golang), PHP.
+* **Frontend:** Svelte, Astro, Tailwind CSS, Typescript.
+* **Ops/Other:** Linux, Cloudflare
 
-- I build CLI tools and CRUD applications. 
-- I avoid "cloud-native" complexity and microservices. 
-- Writing technical notes and documentation.
-- Refining web UI/UX and optimizing PageSpeed scores
-
-**Tech Stack (I use these, but I don't claim mastery)**
-
-- **Backend:** Go (Golang), PHP, Typesript.
-- **Frontend:** Svelte, SvelteKit, Astro, Typescript, Tailwind CSS.
-- **Other:** WordPress, cPanel, Laravel, Cloudflare.
-
-**Current Projects**
-
-- **Throwable Company Profile:** Developing affordable static sites using Astro. 
-- **Technical Journal:** https://wsa.my.id
+### Current Projects
+- **Throwable Company Profile:** Developing affordable, high-performance static sites for SMEs using Astro.
+- **Technical Journal:** [wsa.my.id](https://wsa.my.id)
 <!--
-- **Boring App Usage Tracker:** Android app usage analytics (Kotlin).
-- **Bleeding edge tech news:** https://200.web.id
-- **Boring Storytelling Svelte**: https://junior.web.id
+- **Boring App Usage Tracker:** Android app usage analytics (Kotlin) (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
+- **Timecalc:** Average name I should change for time converter/calculator cli built with Rust (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
+- **Bleeding edge tech news:** https://200.web.id (Just yet another idea)
+- **Boring Storytelling Svelte**: https://junior.web.id (Yet another idea)
 -->
 
-### Joke
-
-> Famously known as "TOP 1 NGANGGUR" (TOP 1 UNEMPLOYED GUY) in Facebook IMPHNEN
-
-> I do have a job, it just not in tech... that's why I named my self as "NGANGGUR" 🗿
-
+### Joke / Lore
+> **"TOP 1 NGANGGUR"** (TOP 1 UNEMPLOYED) - *Facebook IMPHNEN*
+>
+> *(I do have a job, it's just not in tech... yet.)*
 ---
 
 ```mermaid
@@ -60,7 +51,7 @@ journey
       Just use WordPress dude : 6 : Me
       PT Fesnuk Rajin Skrol: 6 : Me
     section 2026
-      Need MORE money : 4 : Me
+      Still Alive : 4 : Me
 ```
 
 <section>
