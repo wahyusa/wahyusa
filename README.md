@@ -20,6 +20,12 @@ I have a Computer Science degree and operate a small legal business entity. I’
 * **Frontend:** Svelte, Astro, Tailwind CSS, Typescript.
 * **Ops/Other:** Linux, Cloudflare
 
+### Team Experience
+- Led a small team project during a Go + Next.js [e-commerce bootcanp project](https://github.com/sigmatop-gonext)
+- Set up a GitHub organization with separate frontend and backend repositories.
+- Define initial Go project structure and deployment documentation.
+- Used GitHub Projects for task planning and progress tracking.
+
 ### Current Projects
 - **SME Static Website Service:** Building affordable, high-performance static sites using Astro. (part of my business)
 - **Technical Journal:** [wsa.my.id](https://wsa.my.id)
