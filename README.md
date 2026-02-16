@@ -11,8 +11,8 @@
 I have a Computer Science degree and operate a small legal business entity. I’m currently looking for full-time engineering roles or internships focused on building and maintaining real software.
 
 ### What I Actually Do
-- I build CLI tools, CRUD apps, and static sites.
-- Prefer simple architectures over premature “cloud-native” complexity.
+- I build CLI tools, CRUD apps, REST API and static websites.
+- Prefer simple architectures early, and introduce complexity only when the problem requires it.
 - I write personal technical notes and documentation
 
 ### Tech Stack I Actually Use
@@ -21,7 +21,7 @@ I have a Computer Science degree and operate a small legal business entity. I’
 * **Ops/Other:** Linux, Cloudflare
 
 ### Current Projects
-- **SME Static Website Service:** Building affordable, high-performance static sites using Astro.
+- **SME Static Website Service:** Building affordable, high-performance static sites using Astro. (part of my business)
 - **Technical Journal:** [wsa.my.id](https://wsa.my.id)
 <!--
 - **Boring App Usage Tracker:** Android app usage analytics (Kotlin) (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
