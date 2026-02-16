@@ -8,20 +8,20 @@
 
 **Software Engineer / Web Developer**
 
-I have a Computer Science degree and a legal business entity, but I'm currently looking for **Full-time Engineering** or **Internship** roles to break into the industry... in this era... in this economy
+I have a Computer Science degree and operate a small legal business entity. I’m currently looking for full-time engineering roles or internships focused on building and maintaining real software.
 
 ### What I Actually Do
 - I build CLI tools, CRUD apps, and static sites.
-- I avoid unnecessary "cloud-native" complexity and microservices.
+- Prefer simple architectures over premature “cloud-native” complexity.
 - I write personal technical notes and documentation
 
 ### Tech Stack I Actually Use
-* **Backend:** Go (Golang), PHP.
+* **Backend:** Go, PHP.
 * **Frontend:** Svelte, Astro, Tailwind CSS, Typescript.
 * **Ops/Other:** Linux, Cloudflare
 
 ### Current Projects
-- **Throwable Company Profile:** Developing affordable, high-performance static sites for SMEs using Astro.
+- **SME Static Website Service:** Building affordable, high-performance static sites using Astro.
 - **Technical Journal:** [wsa.my.id](https://wsa.my.id)
 <!--
 - **Boring App Usage Tracker:** Android app usage analytics (Kotlin) (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
