@@ -8,7 +8,7 @@
 
 **Software Engineer / Web Developer**
 
-I have a Computer Science degree and operate a small legal business entity. I’m currently looking for full-time engineering roles or internships focused on building and maintaining real software.
+I’m currently looking for full-time engineering roles or internships where I can build and maintain real software. I’m also open to other paid opportunities, as long as the compensation is fair.
 
 ### What I Actually Do
 - I build CLI tools, CRUD apps, REST API and static websites.
