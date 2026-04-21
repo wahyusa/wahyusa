@@ -37,9 +37,7 @@ I’m currently looking for full-time engineering roles or internships where I c
 -->
 
 ### Joke / Lore
-> **"TOP 1 NGANGGUR"** (TOP 1 UNEMPLOYED) - *Facebook IMPHNEN*
->
-> *(I do have a job, it's just not in tech... yet.)*
+> Nahh, I hope can be friendly to everyone 
 ---
 
 ```mermaid
