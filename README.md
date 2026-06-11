@@ -4,42 +4,84 @@
 
 ---
 
-## Wahyu SA
+Dulu gw pernah magang webdev cuma modal tutorial YouTube + copy paste Stack Overflow.
 
-**Software Engineer / Web Developer**
+Zaman itu company masih santai lah. Masih berani nerima orang random terus dibina dari onboarding sampe bisa deploy beneran. Interview juga gak ribet-ribet amat. Asal ngerti CRUD PHP native, Bootstrap, jQuery, MySQL, udah dianggap “wah anak ini niat”.
 
-I’m currently looking for full-time engineering roles or internships where I can build and maintain real software. I’m also open to other paid opportunities, as long as the compensation is fair.
+Normalisasi database? N-blabla itu juga gak perlu, yang penting bisa CRUD data numpuk dan meledak bisa belakangan aja
 
-### What I Actually Do
-- I build CLI tools, CRUD apps, REST API and static websites.
-- Prefer simple architectures early, and introduce complexity only when the problem requires it.
-- I write personal technical notes and documentation
+Nama laptop gw waktu itu bahkan gw rename jadi:
+“Fullstack”.
 
-### Tech Stack I Actually Use
-* **Backend:** Go, PHP.
-* **Frontend:** Svelte, Astro, Tailwind CSS, Typescript.
-* **Ops/Other:** Linux, Cloudflare
+Gw all in banget.
+Begadang tiap malam bikin portfolio random.
+Belajar Laravel 8.
+Nyoba React walaupun state aja masih bingung.
+Install Docker di laptop kentang, gak jalan njirr.
+Sewa VPS, deploy project dll
 
-### Team Experience
-- Led a small team project during a Go + Next.js [e-commerce bootcanp project](https://github.com/sigmatop-gonext)
-- Set up a GitHub organization with separate frontend and backend repositories.
-- Define initial Go project structure and deployment documentation.
-- Used GitHub Projects for task planning and progress tracking.
+Selama magang, gw grinding brutal.
 
-### Current Projects
-- **SME Static Website Service:** Building affordable, high-performance static sites using Astro. (part of my business)
-- **Technical Journal:** [wsa.my.id](https://wsa.my.id)
-<!--
-- **Boring App Usage Tracker:** Android app usage analytics (Kotlin) (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
-- **Timecalc:** Average name I should change for time converter/calculator cli built with Rust (ai-slop-not-yet-optimized-but-working-mvp-or-wip-at-least-for-me).
-- **Bleeding edge tech news:** https://200.web.id (Just yet another idea)
-- **Boring Storytelling Svelte**: https://junior.web.id (Yet another idea)
--->
+Dateng paling pagi.
+Pulang paling akhir.
+Tiap revisi jawab:
+“Siap 👌”
 
-### Joke / Lore
-> Nahh, I hope can be friendly to everyone 
----
+Kalo nggak ya gw coba proaktif lah ya, bukannya mau caper atau gimana gw pengen dapet banyak experience tapi juga tetep perlu arahan kan... makanya kadang gw banyak nanya juga
 
+Tiap bug fix berasa boss fight.
+
+Pas anak lain rebahan weekend, gw malah belajar CI/CD, clean architecture, sama cloud native microservices karena takut gak diperpanjang.
+
+Nah terus beberapa bulan kemudian...
+gw diingpit jadi kartap kan
+
+Abis itu hidup berubah.
+
+Udah gak sempet ngoding project aneh-aneh lagi.
+Sibuk daily meeting.
+Deploy malem.
+Fixing production.
+Monitoring.
+Kadang kena random error di production juga, karena waktu itu gak ada QA QA an testing ya di production 
+
+Dan karena semuanya pindah ke GitLab company, GitHub lama gw jadi terbengkalai kan
+
+Terus beberapa bulan lalu pas libur panjang gw iseng buka lagi GitHub lama gw...
+
+Kaget dong.
+
+Repository gw update semua.
+Contribution graph ijo terus.
+Bahkan shared hosting zaman belajar h3ngk3r di NazukaNET dibayarin terus
+
+Ada commit baru:
+
+“refactor hasil.txt”
+“improve mailer hasil”
+“fix UI make it more similar”
+
+PANIK gw.
+
+Gw kira akun gw kena ambil salah satu tim gw waktu magang dulu.
+
+Pas gw cek lebih dalem...
+
+Email commitnya ternyata bukan punya orang lain.
+
+Itu punya istri gw.
+
+Username GitHub gw bahkan udah diganti jadi:
+
+“legato_sonata"
+
+Oalah...
+
+ternyata my bini gw yang lanjutin akun GitHub old gw.
+
+Namanya Arturia Giallo.
+
+Virtuosa 🤗
 ```mermaid
 journey
     title DUNNING KRUGER JOURNEY @wahyusa
